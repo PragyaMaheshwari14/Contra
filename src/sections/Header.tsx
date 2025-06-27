@@ -18,7 +18,7 @@ export const Header = () => {
              <div className='flex items-center justify-between'>
                 <div className="flex items-center gap-2 ">
                   <Image src={Logo} alt='Saas Logo' height={40} width={40} />
-                    <p className='text-xl md:text-xl font-bold tracking-tighter bg-gradient-to-b from-black to-[#001E80] text-transparent bg-clip-text mt-6 text-black mt-0'>
+                    <p className='text-xl md:text-xl font-bold tracking-tighter bg-gradient-to-b from-black to-[#001E80] text-transparent bg-clip-text -my-2 text-black '>
                       Contra 
                     </p>
                 </div>
